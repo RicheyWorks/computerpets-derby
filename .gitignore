@@ -1,0 +1,6 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.env
+.DS_Store
